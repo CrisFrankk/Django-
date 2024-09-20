@@ -1,2 +1,3 @@
 # Django-
-Primeiro app web simples com django
+Uma calculadora com do django
+
